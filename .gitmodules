@@ -1,0 +1,3 @@
+[submodule "image-upload-service"]
+	path = image-upload-service
+	url = https://github.com/xYarvinx/image-upload-service.git
